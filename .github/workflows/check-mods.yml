@@ -1,5 +1,11 @@
 name: Monitorar versões de mods
 on:
+  push:
+    branches: [main]
+    paths:
+      - 'data/mods/installed-spt-4.1.6.json'
+      - 'scripts/check_mod_updates.py'
+      - '.github/workflows/check-mods.yml'
   schedule:
     - cron: '39 10 * * *'
   workflow_dispatch:
