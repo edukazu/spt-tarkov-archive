@@ -1,0 +1,118 @@
+{
+  "schema_version": 1,
+  "environment": {
+    "spt": "4.1.6",
+    "eft": "0.16.9.5.40743"
+  },
+  "confirmed_installed_mods_on": "2026-10-20",
+  "forge_latest_compatibility_checked_on": "2026-10-20",
+  "note": "Versões instaladas não fornecidas; não presumir iguais às versões anunciadas.",
+  "mods": [
+    {
+      "forge_id": 236,
+      "slug": "svm",
+      "name": "Server Value Modifier (SVM)",
+      "guid": "fika.ghostfenixx.svm",
+      "source_url": "https://sp-mod.com/mod/236/server-value-modifier-svm",
+      "reported_installed": true,
+      "installed_version": null,
+      "forge_latest_compatible_baseline": "2.2.3",
+      "target_spt": "4.1.6",
+      "forge_declared_dependencies": []
+    },
+    {
+      "forge_id": 902,
+      "slug": "bigbrain",
+      "name": "BigBrain",
+      "guid": "xyz.drakia.bigbrain",
+      "source_url": "https://sp-mod.com/mod/902/bigbrain",
+      "reported_installed": true,
+      "installed_version": null,
+      "forge_latest_compatible_baseline": "1.5.0",
+      "target_spt": "4.1.6",
+      "forge_declared_dependencies": []
+    },
+    {
+      "forge_id": 827,
+      "slug": "waypoints",
+      "name": "Waypoints — Expanded Navmesh",
+      "guid": "xyz.drakia.waypoints",
+      "source_url": "https://sp-mod.com/mod/827/waypoints-expanded-navmesh",
+      "reported_installed": true,
+      "installed_version": null,
+      "forge_latest_compatible_baseline": "1.9.0",
+      "target_spt": "4.1.6",
+      "forge_declared_dependencies": []
+    },
+    {
+      "forge_id": 791,
+      "slug": "sain",
+      "name": "SAIN — Solarint's AI Modifications",
+      "guid": "me.sol.sain",
+      "source_url": "https://sp-mod.com/mod/791/sain-solarints-ai-modifications-full-ai-combat-system-replacement",
+      "reported_installed": true,
+      "installed_version": null,
+      "forge_latest_compatible_baseline": "4.5.1",
+      "target_spt": "4.1.6",
+      "forge_declared_dependencies": [
+        {
+          "mod_id": 902,
+          "version": "1.5.0"
+        },
+        {
+          "mod_id": 827,
+          "version": "1.9.0"
+        }
+      ]
+    },
+    {
+      "forge_id": 2706,
+      "slug": "orbit",
+      "name": "ORBIT 2.0",
+      "guid": "com.chazut.orbit",
+      "source_url": "https://sp-mod.com/mod/2706/orbit-20",
+      "reported_installed": true,
+      "installed_version": null,
+      "forge_latest_compatible_baseline": "2.1.1",
+      "target_spt": "4.1.6",
+      "forge_declared_dependencies": [
+        {
+          "mod_id": 791,
+          "version": "4.5.1"
+        },
+        {
+          "mod_id": 902,
+          "version": "1.5.0"
+        },
+        {
+          "mod_id": 827,
+          "version": "1.9.0"
+        }
+      ]
+    },
+    {
+      "forge_id": 2530,
+      "slug": "vertical-hideout",
+      "name": "Vertical Hideout",
+      "guid": "com.tarkin.huir",
+      "source_url": "https://sp-mod.com/mod/2530/vertical-hideout",
+      "reported_installed": true,
+      "installed_version": null,
+      "forge_latest_compatible_baseline": "1.1.1",
+      "target_spt": "4.1.6",
+      "forge_declared_dependencies": []
+    },
+    {
+      "forge_id": 784,
+      "slug": "hardcore-rules",
+      "name": "Hardcore Rules",
+      "guid": "com.danw.hardcorerules",
+      "source_url": "https://sp-mod.com/mod/784/hardcore-rules",
+      "reported_installed": true,
+      "installed_version": null,
+      "forge_latest_compatible_baseline": "3.1.0",
+      "target_spt": "4.1.6",
+      "forge_declared_dependencies": []
+    }
+  ]
+}

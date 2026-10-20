@@ -37,6 +37,17 @@ nav:
       - Mapas e extrações: versions/spt-4.1.6/maps/index.md
       - Hideout: versions/spt-4.1.6/hideout/index.md
       - Mecânicas: versions/spt-4.1.6/mechanics/index.md
+  - Mods instalados:
+      - Visão geral: mods/index.md
+      - SVM: mods/svm.md
+      - BigBrain: mods/bigbrain.md
+      - Waypoints: mods/waypoints.md
+      - SAIN: mods/sain.md
+      - ORBIT 2.0: mods/orbit.md
+      - Vertical Hideout: mods/vertical-hideout.md
+      - Hardcore Rules: mods/hardcore-rules.md
+      - Monitoramento: mods/updates.md
+      - Complementares: mods/recommendations.md
   - Releases: releases/index.md
   - Metodologia: methodology.md
   - Como contribuir: contributing.md

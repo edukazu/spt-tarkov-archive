@@ -20,3 +20,7 @@
 Versão SPT, build EFT, fonte (URL/revisão), data de observação, método de verificação, eventuais mods que alterem o comportamento e estado de confiança.
 
 **Distinguir EFT base, alterações padrão do SPT e modificações de terceiros.**
+
+## Perfil instalado versus Forge
+
+O usuário confirmou os nomes de sete mods, não seus números de versão. A release do Forge é referência de compatibilidade, não prova dos arquivos locais. Diferenciar EFT base, SPT 4.1.6, modificações de terceiros e presets ativos. Novos releases geram Issues de revisão editorial; nenhuma instalação é automática.

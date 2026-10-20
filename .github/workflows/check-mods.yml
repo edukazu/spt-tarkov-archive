@@ -1,0 +1,19 @@
+name: Monitorar versões de mods
+on:
+  schedule:
+    - cron: '39 10 * * *'
+  workflow_dispatch:
+permissions:
+  contents: read
+  issues: write
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python scripts/check_mod_updates.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
