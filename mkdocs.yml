@@ -1,0 +1,42 @@
+site_name: SPT Tarkov Archive
+site_description: Arquivo histórico independente de mecânicas e dados do EFT por build do SPT
+site_url: https://edukazu.github.io/spt-tarkov-archive/
+repo_url: https://github.com/edukazu/spt-tarkov-archive
+repo_name: edukazu/spt-tarkov-archive
+copyright: Projeto comunitário não oficial. Sem afiliação com SPT ou Battlestate Games.
+theme:
+  name: material
+  language: pt-BR
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.indexes
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+  palette:
+    - scheme: slate
+      primary: blue grey
+      accent: amber
+plugins:
+  - search:
+      lang: pt
+markdown_extensions:
+  - admonition
+  - attr_list
+  - tables
+  - toc:
+      permalink: true
+nav:
+  - Início: index.md
+  - Versões:
+      - SPT 4.1.6: versions/spt-4.1.6/index.md
+      - Missões: versions/spt-4.1.6/quests/index.md
+      - Traders: versions/spt-4.1.6/traders/index.md
+      - Itens e munições: versions/spt-4.1.6/items/index.md
+      - Mapas e extrações: versions/spt-4.1.6/maps/index.md
+      - Hideout: versions/spt-4.1.6/hideout/index.md
+      - Mecânicas: versions/spt-4.1.6/mechanics/index.md
+  - Releases: releases/index.md
+  - Metodologia: methodology.md
+  - Como contribuir: contributing.md

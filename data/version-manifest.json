@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "reference_version": "4.1.6",
+  "versions": [
+    {
+      "spt": "4.1.6",
+      "eft": "0.16.9.5.40743",
+      "catalog_status": "scaffold",
+      "verified_at": null,
+      "release_source": "https://github.com/SP-Tushonka/build/releases"
+    }
+  ]
+}

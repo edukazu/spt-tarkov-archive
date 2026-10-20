@@ -1,0 +1,30 @@
+name: Verificar fato histórico
+description: Relatar ou validar um dado do jogo para uma build do EFT
+labels: [historical-data]
+body:
+  - type: input
+    id: spt
+    attributes:
+      label: Versão SPT
+      placeholder: 4.1.6
+    validations:
+      required: true
+  - type: input
+    id: eft
+    attributes:
+      label: Build EFT
+      placeholder: 0.16.9.5.40743
+    validations:
+      required: true
+  - type: textarea
+    id: claim
+    attributes:
+      label: O que precisa ser documentado/corrigido?
+    validations:
+      required: true
+  - type: textarea
+    id: sources
+    attributes:
+      label: Fontes e procedimento de verificação
+    validations:
+      required: true
