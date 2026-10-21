@@ -3,7 +3,7 @@
 **Ambiente registrado:** SPT 4.1.6 · EFT 0.16.9.5.40743. Sete mods informados como instalados em 20/10/2026.
 
 !!! important "Duas versões não são a mesma coisa"
-    **Instalada** = arquivo no seu jogo; o número ainda não foi informado. **Última compatível anunciada** = release listada no Forge para SPT 4.1.6, consultada em 20/10/2026.
+    **Instalada** = arquivo no seu jogo; o número ainda não foi informado para os mods sem detalhe. **Última compatível anunciada** = release listada no Forge para SPT 4.1.6, consultada em 20/10/2026. Hardcore Rules tem uma alteração local descrita abaixo.
 
 | Mod | Versão instalada | Última compatível no Forge | Fonte |
 |---|---|---|---|
@@ -13,7 +13,9 @@
 | [SAIN — Solarint's AI Modifications](sain.md) | Não informada | 4.5.1 | [Forge](https://sp-mod.com/mod/791/sain-solarints-ai-modifications-full-ai-combat-system-replacement) |
 | [ORBIT 2.0](orbit.md) | Não informada | 2.1.1 | [Forge](https://sp-mod.com/mod/2706/orbit-20) |
 | [Vertical Hideout](vertical-hideout.md) | Não informada | 1.1.1 | [Forge](https://sp-mod.com/mod/2530/vertical-hideout) |
-| [Hardcore Rules](hardcore-rules.md) | Não informada | 3.1.0 | [Forge](https://sp-mod.com/mod/784/hardcore-rules) |
+| [Hardcore Rules](hardcore-rules.md) | **3.1.0 + patch local “Wallet-only”** | 3.1.0 | [Forge](https://sp-mod.com/mod/784/hardcore-rules) |
+
+A versão Wallet-only do Hardcore Rules é uma alteração local e **não** um release oficial. Para o comportamento confirmado, carteiras compatíveis, limite de suporte e status dos testes, consulte [Hardcore Rules](hardcore-rules.md).
 
 ## Como os mods se conectam
 
