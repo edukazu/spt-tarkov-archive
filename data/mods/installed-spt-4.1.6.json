@@ -5,7 +5,7 @@
     "eft": "0.16.9.5.40743"
   },
   "confirmed_installed_mods_on": "2026-10-20",
-  "forge_latest_compatibility_checked_on": "2026-10-20",
+  "forge_latest_compatibility_checked_on": "2026-10-27",
   "note": "Versões instaladas não fornecidas; não presumir iguais às versões anunciadas.",
   "mods": [
     {
@@ -68,12 +68,12 @@
     {
       "forge_id": 2706,
       "slug": "orbit",
-      "name": "ORBIT 2.0",
+      "name": "ORBIT 3.0",
       "guid": "com.chazut.orbit",
       "source_url": "https://sp-mod.com/mod/2706/orbit-20",
       "reported_installed": true,
       "installed_version": null,
-      "forge_latest_compatible_baseline": "2.1.1",
+      "forge_latest_compatible_baseline": "3.0.0",
       "target_spt": "4.1.6",
       "forge_declared_dependencies": [
         {
@@ -88,7 +88,10 @@
           "mod_id": 827,
           "version": "1.9.0"
         }
-      ]
+      ],
+      "last_new_release_detected": "2026-10-27",
+      "last_new_release_version": "3.0.0",
+      "last_new_release_published": "2026-10-26"
     },
     {
       "forge_id": 2530,

@@ -11,7 +11,7 @@
 | [BigBrain](bigbrain.md) | Não informada | 1.5.0 | [Forge](https://sp-mod.com/mod/902/bigbrain) |
 | [Waypoints — Expanded Navmesh](waypoints.md) | Não informada | 1.9.0 | [Forge](https://sp-mod.com/mod/827/waypoints-expanded-navmesh) |
 | [SAIN — Solarint's AI Modifications](sain.md) | Não informada | 4.5.1 | [Forge](https://sp-mod.com/mod/791/sain-solarints-ai-modifications-full-ai-combat-system-replacement) |
-| [ORBIT 2.0](orbit.md) | Não informada | 2.1.1 | [Forge](https://sp-mod.com/mod/2706/orbit-20) |
+| [ORBIT 3.0](orbit.md) | Não informada | 3.0.0 (26/10/2026) | [Forge](https://sp-mod.com/mod/2706/orbit-20) |
 | [Vertical Hideout](vertical-hideout.md) | Não informada | 1.1.1 | [Forge](https://sp-mod.com/mod/2530/vertical-hideout) |
 | [Hardcore Rules](hardcore-rules.md) | **3.1.0 + patch local “Wallet-only”** | 3.1.0 | [Forge](https://sp-mod.com/mod/784/hardcore-rules) |
 
@@ -22,7 +22,7 @@ A versão Wallet-only do Hardcore Rules é uma alteração local e **não** um r
 ```text
 BigBrain 1.5.0 ──────┐
                      ├── SAIN 4.5.1 ──┐
-Waypoints 1.9.0 ─────┘                ├── ORBIT 2.0 2.1.1
+Waypoints 1.9.0 ─────┘                ├── ORBIT 3.0 3.0.0
 BigBrain 1.5.0 ───────────────────────┤
 Waypoints 1.9.0 ──────────────────────┘
 ```
